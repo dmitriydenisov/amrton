@@ -1,5 +1,4 @@
 const swiper = new Swiper(".swiper", {
-  //   autoplay: true,
   slidesPerView: 1.1,
   spaceBetween: 5,
   navigation: {
@@ -10,7 +9,6 @@ const swiper = new Swiper(".swiper", {
     566: {
       slidesPerView: 2,
       spaceBetween: 10,
-      //   autoplay: false,
     },
     880: {
       slidesPerView: 3,
