@@ -209,6 +209,7 @@ a {
   justify-content: space-between;
   -ms-flex-align: center;
   padding: 16px 16px 49px 16px;
+  background: #fff;
 }
 .faq-card__description {
   width: 250px;
@@ -303,9 +304,9 @@ a {
 
 .reference__text {
   max-width: 372px;
-  font-size: clamp(10px, 2vw + 1rem, 13px);
+  font-size: clamp(10px, 2vw, 13px);
   font-weight: 400;
-  line-height: 18.2px;
+  line-height: 140%;
 }
 .wrapper {
   max-width: 690px;
